@@ -25,8 +25,8 @@
 (define FINAL-POS (day2 INPUT))
 
 ;; Part 1
-(* (pos-x FINAL-POS-1) (pos-z FINAL-POS-1))
+(* (pos-x FINAL-POS) (pos-z FINAL-POS))
 
 ;; Part 2
-(* (pos-x FINAL-POS-2) (pos-y FINAL-POS-2))
+(* (pos-x FINAL-POS) (pos-y FINAL-POS))
 
