@@ -21,11 +21,12 @@
      ]
   (process-commands 0 0 0 commands)))
 
+
+(define FINAL-POS (day2 INPUT))
+
 ;; Part 1
-(define FINAL-POS-1 (day2 INPUT))
 (* (pos-x FINAL-POS-1) (pos-z FINAL-POS-1))
 
 ;; Part 2
-(define FINAL-POS-2 (day2 INPUT))
 (* (pos-x FINAL-POS-2) (pos-y FINAL-POS-2))
 
