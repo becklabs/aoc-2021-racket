@@ -28,5 +28,5 @@
 (* (pos-x FINAL-POS) (pos-z FINAL-POS))
 
 ;; Part 2
-(* (pos-x FINAL-POS) (pos-y FINAL-POS-2))
+(* (pos-x FINAL-POS) (pos-y FINAL-POS))
 
